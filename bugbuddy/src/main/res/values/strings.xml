@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_send">Send</string>
+    <string name="hint_text">Please be as detailed as possible. What did you expect and what happened \ninstead?</string>
+    <string name="report">Report a Bug</string>
+    <string name="issuetype">Issue Type</string>
+    <string name="project">Project</string>
+    <string name="submit">Submit</string>
+    <string name="send_to">Send To</string>
+</resources>
